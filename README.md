@@ -20,11 +20,11 @@ Seçilen klasördeki dosyaların hash değerlerini kaydeder ve değişiklikleri 
 python Integrity_checker_GUI.py
 
 3.GUI penceresinde:
- .Klasör Seç: İzlemek istediğin klasörü seç
- .Taramayı Başlat: Dosyaları tarar ve değişiklikleri listeler
+ -Klasör Seç: İzlemek istediğin klasörü seç
+ -Taramayı Başlat: Dosyaları tarar ve değişiklikleri listeler
 
 4.İlk taramada .hashes.json dosyası otomatik oluşturulur.
- .Bu dosya sonraki taramalarda referans olarak kullanılır.
+ -Bu dosya sonraki taramalarda referans olarak kullanılır.
 
 📁 Proje Dosya Yapısı
 
